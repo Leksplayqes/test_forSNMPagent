@@ -1,0 +1,36 @@
+{
+  "api_base_url": "http://localhost:8000",
+  "device_info": {
+    "name": "Nonev3",
+    "ipaddr": "192.168.50.100",
+    "slots_dict": {}
+  },
+  "ip_address_input": "192.168.50.100",
+  "password_input": "q1w2e3r4t5y6u7",
+  "snmp_type_select": "SnmpV3",
+  "test_type_radio": "sync",
+  "viavi_config": {
+    "NumOne": {
+      "ipaddr": "",
+      "port": 8006,
+      "typeofport": {
+        "Port1": "STM-1",
+        "Port2": "STM-1"
+      }
+    },
+    "NumTwo": {
+      "ipaddr": "",
+      "port": 8006,
+      "typeofport": {
+        "Port1": "STM-1",
+        "Port2": "STM-1"
+      }
+    }
+  },
+  "slot_loopback": 3,
+  "port_loopback": 7,
+  "selected_tests": [],
+  "test_results": null,
+  "test_history": [],
+  "current_job_id": "078544eca956"
+}

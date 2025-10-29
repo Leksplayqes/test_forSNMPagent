@@ -1,0 +1,251 @@
+{
+  "id": "4a830adfcd20",
+  "config": {
+    "test_type": "sync",
+    "selected_tests": [
+      "OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del"
+    ],
+    "settings": null
+  },
+  "started": 1761221856.3610857,
+  "finished": 1761222001.6512194,
+  "summary": {
+    "status": "failed",
+    "total": 32,
+    "passed": 0,
+    "failed": 32,
+    "skipped": 0,
+    "duration": 142.699
+  },
+  "cases": [
+    {
+      "name": "test_STM_E1_create_del[5-1-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-1-1]",
+      "status": "FAILED",
+      "duration": 4.445,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-1-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-1-2]",
+      "status": "FAILED",
+      "duration": 4.464,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-1-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-1-3]",
+      "status": "FAILED",
+      "duration": 4.474,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-1-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-1-4]",
+      "status": "FAILED",
+      "duration": 4.509,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-2-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-2-1]",
+      "status": "FAILED",
+      "duration": 4.461,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-2-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-2-2]",
+      "status": "FAILED",
+      "duration": 4.502,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-2-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-2-3]",
+      "status": "FAILED",
+      "duration": 4.476,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-2-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-2-4]",
+      "status": "FAILED",
+      "duration": 4.447,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-3-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-3-1]",
+      "status": "FAILED",
+      "duration": 4.422,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-3-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-3-2]",
+      "status": "FAILED",
+      "duration": 4.512,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-3-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-3-3]",
+      "status": "FAILED",
+      "duration": 4.458,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-3-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-3-4]",
+      "status": "FAILED",
+      "duration": 4.468,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-4-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-4-1]",
+      "status": "FAILED",
+      "duration": 4.44,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-4-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-4-2]",
+      "status": "FAILED",
+      "duration": 4.438,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-4-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-4-3]",
+      "status": "FAILED",
+      "duration": 4.439,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-4-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-4-4]",
+      "status": "FAILED",
+      "duration": 4.471,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-5-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-5-1]",
+      "status": "FAILED",
+      "duration": 4.459,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-5-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-5-2]",
+      "status": "FAILED",
+      "duration": 4.444,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-5-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-5-3]",
+      "status": "FAILED",
+      "duration": 4.446,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-5-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-5-4]",
+      "status": "FAILED",
+      "duration": 4.435,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-6-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-6-1]",
+      "status": "FAILED",
+      "duration": 4.468,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-6-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-6-2]",
+      "status": "FAILED",
+      "duration": 4.506,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-6-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-6-3]",
+      "status": "FAILED",
+      "duration": 4.447,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-6-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-6-4]",
+      "status": "FAILED",
+      "duration": 4.433,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-7-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-7-1]",
+      "status": "FAILED",
+      "duration": 4.437,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-7-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-7-2]",
+      "status": "FAILED",
+      "duration": 4.463,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-7-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-7-3]",
+      "status": "FAILED",
+      "duration": 4.465,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-7-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-7-4]",
+      "status": "FAILED",
+      "duration": 4.485,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-8-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-8-1]",
+      "status": "FAILED",
+      "duration": 4.457,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-8-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-8-2]",
+      "status": "FAILED",
+      "duration": 4.435,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-8-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-8-3]",
+      "status": "FAILED",
+      "duration": 4.426,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    },
+    {
+      "name": "test_STM_E1_create_del[5-8-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-8-4]",
+      "status": "FAILED",
+      "duration": 4.467,
+      "message": "paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46"
+    }
+  ],
+  "stdout": "============================= test session starts =============================\nplatform win32 -- Python 3.12.0, pytest-8.4.2, pluggy-1.6.0 -- C:\\Users\\mikhailov_gs.SUPERTEL\\PycharmProjects\\pythonProject1\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nrootdir: C:\\Users\\mikhailov_gs.SUPERTEL\\PycharmProjects\\pythonProject1\nconfigfile: pytest.ini\nplugins: anyio-4.11.0\ncollecting ... collected 32 items\n\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-1] FAILED            [  3%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-2] FAILED            [  6%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-3] FAILED            [  9%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-4] FAILED            [ 12%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-1] FAILED            [ 15%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-2] FAILED            [ 18%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-3] FAILED            [ 21%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-4] FAILED            [ 25%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-1] FAILED            [ 28%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-2] FAILED            [ 31%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-3] FAILED            [ 34%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-4] FAILED            [ 37%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-1] FAILED            [ 40%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-2] FAILED            [ 43%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-3] FAILED            [ 46%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-4] FAILED            [ 50%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-1] FAILED            [ 53%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-2] FAILED            [ 56%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-3] FAILED            [ 59%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-4] FAILED            [ 62%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-1] FAILED            [ 65%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-2] FAILED            [ 68%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-3] FAILED            [ 71%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-4] FAILED            [ 75%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-1] FAILED            [ 78%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-2] FAILED            [ 81%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-3] FAILED            [ 84%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-4] FAILED            [ 87%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-1] FAILED            [ 90%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-2] FAILED            [ 93%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-3] FAILED            [ 96%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-4] FAILED            [100%]\n\n================================== FAILURES ===================================\n________________________ test_STM_E1_create_del[5-1-1] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-1-2] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-1-3] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-1-4] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-2-1] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-2-2] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-2-3] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-2-4] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-3-1] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-3-2] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-3-3] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-3-4] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-4-1] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-4-2] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-4-3] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-4-4] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-5-1] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-5-2] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-5-3] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-5-4] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-6-1] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-6-2] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-6-3] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-6-4] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-7-1] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-7-2] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-7-3] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-7-4] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-8-1] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-8-2] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-8-3] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n________________________ test_STM_E1_create_del[5-8-4] ________________________\nOSMK_Mv7\\test_syncV7.py:36: in test_STM_E1_create_del\n    regSTM_set = get_ssh_value(\"9\" if \"9\" in oidsSNMP()[\"slots_dict\"] else \"10\", oids()[\"priorityREG\"][priornum])\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSMK_Mv7\\sshV7.py:10: in get_ssh_value\n    ssh.connect(oidsSNMP()['ipaddr'], port=22, username='root', password='')\n.venv\\Lib\\site-packages\\paramiko\\client.py:407: in connect\n    raise NoValidConnectionsError(errors)\nE   paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n- generated xml file: C:\\Users\\mikhailov_gs.SUPERTEL\\PycharmProjects\\pythonProject1\\pytest_reports\\4a830adfcd20.xml -\n=========================== short test summary info ===========================\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-1] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-2] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-3] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-4] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-1] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-2] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-3] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-4] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-1] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-2] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-3] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-4] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-1] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-2] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-3] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-4] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-1] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-2] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-3] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-4] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-1] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-2] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-3] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-4] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-1] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-2] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-3] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-4] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-1] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-2] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-3] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\nFAILED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-4] - paramiko.ssh_exception.NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 192.168.72.46\n======================= 32 failed in 144.76s (0:02:24) ========================\n",
+  "stderr": "",
+  "returncode": 1,
+  "report": "C:\\Users\\mikhailov_gs.SUPERTEL\\PycharmProjects\\pythonProject1\\pytest_reports\\4a830adfcd20.xml",
+  "expected_total": 32
+}

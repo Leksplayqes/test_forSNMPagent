@@ -1,0 +1,251 @@
+{
+  "id": "2ee05515eed8",
+  "config": {
+    "test_type": "sync",
+    "selected_tests": [
+      "OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del"
+    ],
+    "settings": null
+  },
+  "started": 1761220549.076521,
+  "finished": 1761220740.0457714,
+  "summary": {
+    "status": "passed",
+    "total": 32,
+    "passed": 32,
+    "failed": 0,
+    "skipped": 0,
+    "duration": 189.232
+  },
+  "cases": [
+    {
+      "name": "test_STM_E1_create_del[5-1-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-1-1]",
+      "status": "PASSED",
+      "duration": 5.951,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-1-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-1-2]",
+      "status": "PASSED",
+      "duration": 5.863,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-1-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-1-3]",
+      "status": "PASSED",
+      "duration": 5.907,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-1-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-1-4]",
+      "status": "PASSED",
+      "duration": 5.849,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-2-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-2-1]",
+      "status": "PASSED",
+      "duration": 5.857,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-2-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-2-2]",
+      "status": "PASSED",
+      "duration": 5.853,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-2-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-2-3]",
+      "status": "PASSED",
+      "duration": 5.932,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-2-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-2-4]",
+      "status": "PASSED",
+      "duration": 5.888,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-3-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-3-1]",
+      "status": "PASSED",
+      "duration": 5.88,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-3-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-3-2]",
+      "status": "PASSED",
+      "duration": 5.86,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-3-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-3-3]",
+      "status": "PASSED",
+      "duration": 5.825,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-3-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-3-4]",
+      "status": "PASSED",
+      "duration": 6.047,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-4-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-4-1]",
+      "status": "PASSED",
+      "duration": 5.847,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-4-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-4-2]",
+      "status": "PASSED",
+      "duration": 5.863,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-4-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-4-3]",
+      "status": "PASSED",
+      "duration": 5.849,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-4-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-4-4]",
+      "status": "PASSED",
+      "duration": 5.906,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-5-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-5-1]",
+      "status": "PASSED",
+      "duration": 6.035,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-5-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-5-2]",
+      "status": "PASSED",
+      "duration": 5.863,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-5-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-5-3]",
+      "status": "PASSED",
+      "duration": 5.903,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-5-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-5-4]",
+      "status": "PASSED",
+      "duration": 5.847,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-6-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-6-1]",
+      "status": "PASSED",
+      "duration": 5.91,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-6-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-6-2]",
+      "status": "PASSED",
+      "duration": 5.89,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-6-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-6-3]",
+      "status": "PASSED",
+      "duration": 5.859,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-6-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-6-4]",
+      "status": "PASSED",
+      "duration": 5.945,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-7-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-7-1]",
+      "status": "PASSED",
+      "duration": 5.95,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-7-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-7-2]",
+      "status": "PASSED",
+      "duration": 5.913,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-7-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-7-3]",
+      "status": "PASSED",
+      "duration": 6.291,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-7-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-7-4]",
+      "status": "PASSED",
+      "duration": 6.059,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-8-1]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-8-1]",
+      "status": "PASSED",
+      "duration": 5.956,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-8-2]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-8-2]",
+      "status": "PASSED",
+      "duration": 5.928,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-8-3]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-8-3]",
+      "status": "PASSED",
+      "duration": 5.848,
+      "message": null
+    },
+    {
+      "name": "test_STM_E1_create_del[5-8-4]",
+      "nodeid": "OSMK_Mv7.test_syncV7::test_STM_E1_create_del[5-8-4]",
+      "status": "PASSED",
+      "duration": 5.858,
+      "message": null
+    }
+  ],
+  "stdout": "============================= test session starts =============================\nplatform win32 -- Python 3.12.0, pytest-8.4.2, pluggy-1.6.0 -- C:\\Users\\mikhailov_gs.SUPERTEL\\PycharmProjects\\pythonProject1\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nrootdir: C:\\Users\\mikhailov_gs.SUPERTEL\\PycharmProjects\\pythonProject1\nconfigfile: pytest.ini\nplugins: anyio-4.11.0\ncollecting ... collected 32 items\n\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-1] PASSED            [  3%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-2] PASSED            [  6%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-3] PASSED            [  9%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-4] PASSED            [ 12%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-1] PASSED            [ 15%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-2] PASSED            [ 18%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-3] PASSED            [ 21%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-4] PASSED            [ 25%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-1] PASSED            [ 28%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-2] PASSED            [ 31%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-3] PASSED            [ 34%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-4] PASSED            [ 37%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-1] PASSED            [ 40%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-2] PASSED            [ 43%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-3] PASSED            [ 46%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-4] PASSED            [ 50%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-1] PASSED            [ 53%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-2] PASSED            [ 56%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-3] PASSED            [ 59%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-4] PASSED            [ 62%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-1] PASSED            [ 65%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-2] PASSED            [ 68%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-3] PASSED            [ 71%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-4] PASSED            [ 75%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-1] PASSED            [ 78%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-2] PASSED            [ 81%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-3] PASSED            [ 84%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-4] PASSED            [ 87%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-1] PASSED            [ 90%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-2] PASSED            [ 93%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-3] PASSED            [ 96%]\nOSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-4] PASSED            [100%]\n\n=================================== PASSES ====================================\n- generated xml file: C:\\Users\\mikhailov_gs.SUPERTEL\\PycharmProjects\\pythonProject1\\pytest_reports\\2ee05515eed8.xml -\n=========================== short test summary info ===========================\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-1]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-2]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-3]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-1-4]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-1]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-2]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-3]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-2-4]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-1]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-2]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-3]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-3-4]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-1]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-2]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-3]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-4-4]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-1]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-2]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-3]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-5-4]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-1]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-2]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-3]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-6-4]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-1]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-2]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-3]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-7-4]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-1]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-2]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-3]\nPASSED OSMK_Mv7/test_syncV7.py::test_STM_E1_create_del[5-8-4]\n======================= 32 passed in 190.43s (0:03:10) ========================\n",
+  "stderr": "",
+  "returncode": 0,
+  "report": "C:\\Users\\mikhailov_gs.SUPERTEL\\PycharmProjects\\pythonProject1\\pytest_reports\\2ee05515eed8.xml",
+  "expected_total": 32
+}
