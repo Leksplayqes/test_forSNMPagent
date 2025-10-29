@@ -8,7 +8,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-from backend_single import SYNC_TESTS_CATALOG, ALARM_TESTS_CATALOG
+from backend import SYNC_TESTS_CATALOG, ALARM_TESTS_CATALOG
 
 # =========[ МОДУЛЬ: базовая конфигурация страницы ]=========================================
 st.set_page_config(page_title="OSM-K Tester System", page_icon="🛠️", layout="wide",
