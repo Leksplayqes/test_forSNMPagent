@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import streamlit as st
 
-from ..api import api_get
+from api import api_get
 
 
 def sidebar_ui() -> None:

@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import streamlit as st
 
-from ..api import util_check_conf, util_check_hash, util_fpga_reload
+from api import util_check_conf, util_check_hash, util_fpga_reload
 
 
 def render_utils(api_base: str) -> None:

@@ -5,8 +5,8 @@ from typing import Dict, List
 
 import streamlit as st
 
-from ..api import get_device_info, get_test_types, ping_device, run_tests, _norm_nodeid
-from ..state import on_change, save_state, viavi_sync_from_widgets
+from api import get_device_info, get_test_types, ping_device, run_tests, _norm_nodeid
+from state import on_change, save_state, viavi_sync_from_widgets
 
 PORT_OPTIONS = ["", "STM-1", "STM-4", "STM-16"]
 

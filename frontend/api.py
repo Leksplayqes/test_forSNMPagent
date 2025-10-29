@@ -7,9 +7,9 @@ from typing import Any, Dict, Optional
 import requests
 import streamlit as st
 
-from backend import ALARM_TESTS_CATALOG, SYNC_TESTS_CATALOG
+from state import save_state, viavi_sync_from_widgets
 
-from .state import save_state, viavi_sync_from_widgets
+
 
 
 def api_post(api_base: str, path: str, payload: Optional[Dict[str, Any]] = None, timeout: int = 30):
@@ -44,6 +44,8 @@ def _norm_nodeid(node_id: str) -> str:
     return node_id.replace(" ::", "::").replace(":: ", "::").replace(" / ", "/").strip()
 
 
+# ---------------------- Utilities (utils tab) -----------------------
+
 def util_jobs(api_base: str):
     return api_get(api_base, "/utils/jobs") or []
 
@@ -64,12 +66,15 @@ def util_fpga_reload(api_base: str, ip: str, password: str, slot: int = 9):
     return api_post(api_base, "/utils/fpga_reload", {"ip": ip, "password": password, "slot": slot})
 
 
+# ---------------------- Device / Tests APIs ------------------------
+
 def ping_device(api_base: str, ip: str) -> bool:
     data = api_post(api_base, "/ping", {"ip_address": ip})
     return bool(data and data.get("success"))
 
 
 def get_device_info(api_base: str, ip: str, password: str, snmp: str):
+    # синхронизируем viavi из виджетов в единый объект перед отправкой
     viavi_sync_from_widgets()
     loopback = {
         "slot": st.session_state.get("slot_loopback"),
@@ -97,25 +102,36 @@ def get_device_info(api_base: str, ip: str, password: str, snmp: str):
     return st.session_state["device_info"]
 
 
-def _catalog_fallback() -> Dict[str, Dict[str, str]]:
-    return {
-        "alarm_tests": ALARM_TESTS_CATALOG,
-        "sync_tests": SYNC_TESTS_CATALOG,
-    }
-
-
 def get_test_types(api_base: str, cache_ttl: int = 30):
+    """
+    Возвращает словарь вида:
+    {
+      "alarm_tests": { "Имя для UI": "nodeid", ... },
+      "sync_tests":  { "Имя для UI": "nodeid", ... }
+    }
+    Берём с бэка /tests/types; при недоступности — локальный фолбэк.
+    """
     cache = st.session_state.get("_test_types_cache")
     now = time.time()
     if cache and now - cache.get("ts", 0) < cache_ttl:
         return cache["data"]
 
-    data = api_get(api_base, "/tests/types") or _catalog_fallback()
+    data = api_get(api_base, "/tests/types")
+
+
     st.session_state["_test_types_cache"] = {"ts": now, "data": data}
     return data
 
 
 def run_tests(api_base: str, cfg: Dict[str, Any]):
+    """
+    cfg ожидается в формате:
+      {
+        "test_type": "alarm"|"sync"|"manual",
+        "selected_tests": ["nodeid1", "nodeid2", ...],
+        "settings": {...}  # опционально
+      }
+    """
     return api_post(api_base, "/tests/run", cfg, timeout=120)
 
 

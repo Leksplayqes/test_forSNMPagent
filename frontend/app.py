@@ -3,9 +3,9 @@ from __future__ import annotations
 
 import streamlit as st
 
-from .constants import BUTTON_STYLE, DEFAULT_API_BASE_URL, PAGE_CONFIG
-from .state import apply_state, initialize_session_state
-from .ui import render_configuration, render_results, render_utils, sidebar_ui
+from constants import BUTTON_STYLE, DEFAULT_API_BASE_URL, PAGE_CONFIG
+from state import apply_state, initialize_session_state
+from ui import render_configuration, render_results, render_utils, sidebar_ui
 
 
 st.set_page_config(**PAGE_CONFIG)

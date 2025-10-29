@@ -6,8 +6,8 @@ import time
 import pandas as pd
 import streamlit as st
 
-from ..api import api_get, stop_test_job
-from ..state import _commit_test_result
+from api import api_get, stop_test_job
+from state import _commit_test_result
 
 
 def render_results(api_base_url: str) -> None:

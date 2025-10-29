@@ -6,7 +6,7 @@ from typing import Any, Dict, Optional
 
 import streamlit as st
 
-from .constants import DEFAULT_API_BASE_URL, STATE_FILE
+from constants import DEFAULT_API_BASE_URL, STATE_FILE
 
 
 def initialize_session_state() -> None:
